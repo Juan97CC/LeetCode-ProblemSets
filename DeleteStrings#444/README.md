@@ -1,4 +1,4 @@
-# Subtract Strings
+# Solution for Subtract Strings
 
 ## Problem
 Given two integers `num1` and `num2` represented as strings, return the **difference** `num1 - num2` as a string.
